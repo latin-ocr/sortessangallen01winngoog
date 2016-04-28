@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sortessangallen01winngoog_0007.png"; bbox 0 0 3290 5308; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 681 2188 2467 2354">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 681 2188 2467 2354">
+     <span class='ocr_line' id='line_1_1' title="bbox 681 2188 2467 2354; baseline 0.003 -7"><span class='ocrx_word' id='word_1_1' title='bbox 681 2243 1522 2353; x_wconf 83' lang='lat' dir='ltr'>FRANCISCO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1607 2188 2467 2354; x_wconf 84' lang='lat' dir='ltr'><strong>BVECHELER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 496 2409 2461 2549">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 496 2409 2461 2549">
+     <span class='ocr_line' id='line_1_2' title="bbox 496 2409 2461 2549; baseline -0.004 -12"><span class='ocrx_word' id='word_1_3' title='bbox 496 2496 500 2501; x_wconf 92' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 681 2426 1587 2549; x_wconf 84' lang='lat' dir='ltr'><strong>RENARDO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1707 2409 2461 2532; x_wconf 80' lang='lat' dir='ltr'><strong>KEKVLE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 679 2607 2583 2742">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 679 2607 2583 2742">
+     <span class='ocr_line' id='line_1_3' title="bbox 679 2607 2583 2742; baseline 0.002 -28"><span class='ocrx_word' id='word_1_6' title='bbox 679 2608 1686 2742; x_wconf 74' lang='lat' dir='ltr'>HERMANNO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1782 2609 2465 2719; x_wconf 84' lang='lat' dir='ltr'>VSENER</span> <span class='ocrx_word' id='word_1_8' title='bbox 2580 2607 2583 2612; x_wconf 86' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
